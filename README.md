@@ -1,2 +1,3 @@
-# tutedude-assignment
-assignments as part of the Tutedude course.
+# tutedude-Python-assignment
+ This file contains solutions for the Tutedude Python assignment.
+
