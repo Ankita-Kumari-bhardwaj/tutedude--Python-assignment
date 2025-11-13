@@ -1,7 +1,7 @@
 """
 ------------------------------------------------------------
 Title: Task 1
-Author: Ankita Kumari Bhardwaj
+Author: Ankita Bhardwaj
 Date: November 2025
 Description:
     This program takes two numbers as input from the user and
