@@ -3,7 +3,7 @@ This repository contains solutions for the Tutedude Python Assignment 1 as part 
 
        Tasks Included
 Task 1 – Basic Mathematical Operations
-File: `assignment1/Assignment_1_Task_2.py`  
+File: `assignment1/Assignment_1_task1.py`  
 This program:
 1. Takes two numbers as input from the user.  
 2. Performs and displays:
