@@ -2,7 +2,7 @@
 This repository contains solutions for the Tutedude Python Assignment 4 based on File Handling in Python.
         Tasks Included
 Task 1 – Read a File and Handle Errors
-File: `assignment4/Assignment_4_Task1.py`
+File: `Assignment4/Task_1.py`
 This program:
 1. Tries to open a file named sample.txt
 2. Reads and prints each line with a line number
@@ -16,7 +16,7 @@ Concepts Used:
 - `.strip()` for clean output  
 
  Task 2 – Write, Append, and Read a File
-File: `assignment4/Assignment_4_Task2.py`
+File: `Assignment4/Task2.py`
 This program:
 1. Takes user input and writes it to `output.txt`
 2. Takes additional input and appends it to the same file
